@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/front-end-project-week/static/media/icons-16.b6382c6d.ttf"
   },
   {
-    "revision": "e666d692a7dc07ea69886dfcec837c3c",
-    "url": "/front-end-project-week/static/media/icons-20.e666d692.eot"
-  },
-  {
     "revision": "058e48cbbee6cdbfb2a2e6dab347f245",
     "url": "/front-end-project-week/static/media/icons-20.058e48cb.woff"
+  },
+  {
+    "revision": "e666d692a7dc07ea69886dfcec837c3c",
+    "url": "/front-end-project-week/static/media/icons-20.e666d692.eot"
   },
   {
     "revision": "c68b897b064b3ef38c9b",
